@@ -5585,5 +5585,38 @@
    "Steam Achievements",
    "Partial Controller Support"
   ]
+ },
+ "3699590": {
+  "user_tags": [
+   "Metroidvania",
+   "Action-Adventure",
+   "Dark Fantasy",
+   "Horror",
+   "Action",
+   "Cute",
+   "Adventure",
+   "Hand-drawn"
+  ],
+  "name": "Well Dweller",
+  "type": "game",
+  "developers": [
+   "Kyle Thompson"
+  ],
+  "publishers": [
+   "Kyle Thompson",
+   "Top Hat Studios, Inc.",
+   "Doyoyo Games"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699590/49dd898fc6800fb34e599e23b7a015447f8209d5/header.jpg?t=1790089193",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699590/ab956a6e275e2ab5909ffd811a057035eddd042c/capsule_184x69.jpg?t=1790089193",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "RPG",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
  }
 }
