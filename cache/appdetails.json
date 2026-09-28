@@ -5618,5 +5618,35 @@
    "Steam Achievements",
    "Full controller support"
   ]
+ },
+ "1636440": {
+  "user_tags": [
+   "Adventure",
+   "Action",
+   "Horror",
+   "Psychological Horror",
+   "First-Person",
+   "Survival Horror",
+   "Exploration",
+   "Action-Adventure"
+  ],
+  "name": "SILENT HILL: Townfall",
+  "type": "game",
+  "developers": [
+   "Screen Burn"
+  ],
+  "publishers": [
+   "KONAMI",
+   " Annapurna Interactive"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636440/0ed1cb4bc30631f95b92f7f13bb06c15d49b4afa/header.jpg?t=1790222467",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636440/f0dfc016ffde1f3001a60e106bc0c2063fefd695/capsule_184x69.jpg?t=1790222467",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
  }
 }
