@@ -5648,5 +5648,667 @@
    "Steam Achievements",
    "Full controller support"
   ]
+ },
+ "8870": {
+  "user_tags": [
+   "Action",
+   "Shooter",
+   "First-Person",
+   "FPS",
+   "Story Rich",
+   "Singleplayer",
+   "RPG",
+   "Adventure"
+  ],
+  "name": "BioShock Infinite",
+  "type": "game",
+  "developers": [
+   "Irrational Games",
+   "Virtual Programming (Linux)"
+  ],
+  "publishers": [
+   "2K"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8870/header.jpg?t=1728673518",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8870/capsule_184x69.jpg?t=1728673518",
+  "tags": [
+   "Action",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "218620": {
+  "user_tags": [
+   "Co-op",
+   "Action",
+   "FPS",
+   "Heist",
+   "Multiplayer",
+   "Looter Shooter",
+   "Online Co-Op",
+   "Stealth"
+  ],
+  "name": "PAYDAY 2",
+  "type": "game",
+  "developers": [
+   "OVERKILL - a Starbreeze Studio.",
+   "Sidetrack Games"
+  ],
+  "publishers": [
+   "Starbreeze Entertainment"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg?t=1789555107",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/93da274741e6e69dc57ede857ab8979167d015ce/capsule_184x69.jpg?t=1789555107",
+  "tags": [
+   "Action",
+   "RPG",
+   "Single-player",
+   "Multi-player",
+   "Co-op",
+   "Online Co-op",
+   "Steam Achievements",
+   "Full controller support",
+   "Tracked Controller Support",
+   "VR Supported",
+   "In-App Purchases"
+  ]
+ },
+ "220240": {
+  "user_tags": [
+   "Open World",
+   "FPS",
+   "Action",
+   "Adventure",
+   "Multiplayer",
+   "Shooter",
+   "Stealth",
+   "Co-op"
+  ],
+  "name": "Far Cry 3",
+  "type": "game",
+  "developers": [
+   "Ubisoft Montreal, Massive Entertainment, and Ubisoft Shanghai"
+  ],
+  "publishers": [
+   "Ubisoft"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/3848aafeb6e5cff40cbf6210c34413f3034150da/header.jpg?t=1785282057",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/ba51d74a29dc4f6167ff9410d5fe8ae42235fd68/capsule_184x69.jpg?t=1785282057",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Single-player",
+   "Multi-player",
+   "Co-op",
+   "Steam Achievements",
+   "Partial Controller Support"
+  ]
+ },
+ "239140": {
+  "user_tags": [
+   "Zombies",
+   "Survival Horror",
+   "Horror",
+   "Online Co-Op",
+   "Open World",
+   "Parkour",
+   "First-Person",
+   "Survival"
+  ],
+  "name": "Dying Light",
+  "type": "game",
+  "developers": [
+   "Techland"
+  ],
+  "publishers": [
+   "Techland"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/9d1b810b85ae46a0acbdfddf583ccbb81271183e/header.jpg?t=1782913513",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/2f76ff4a0212ecf8d7a2096f91cd2a0e9235e3ee/capsule_184x69.jpg?t=1782913513",
+  "tags": [
+   "Action",
+   "Adventure",
+   "RPG",
+   "Single-player",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "Co-op",
+   "Online Co-op",
+   "Steam Achievements",
+   "Full controller support",
+   "Steam Workshop"
+  ]
+ },
+ "250900": {
+  "user_tags": [
+   "Action Roguelike",
+   "Roguelike",
+   "Indie",
+   "Replay Value",
+   "Difficult",
+   "Pixel Graphics",
+   "Dungeon Crawler",
+   "Great Soundtrack"
+  ],
+  "name": "The Binding of Isaac: Rebirth",
+  "type": "game",
+  "developers": [
+   "Nicalis, Inc.",
+   "Edmund McMillen"
+  ],
+  "publishers": [
+   "Nicalis, Inc."
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/capsule_184x69.jpg?t=1731977365",
+  "tags": [
+   "Action",
+   "Single-player",
+   "Multi-player",
+   "Shared/Split Screen",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "322500": {
+  "user_tags": [
+   "Action",
+   "FPS",
+   "Bullet Time",
+   "Time Manipulation",
+   "Indie",
+   "Singleplayer",
+   "First-Person",
+   "Shooter"
+  ],
+  "name": "SUPERHOT",
+  "type": "game",
+  "developers": [
+   "SUPERHOT Team"
+  ],
+  "publishers": [
+   "SUPERHOT Team"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322500/header.jpg?t=1726509130",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322500/0d3f842391fa3439a57c3cc4c914591b17dfaa6e/capsule_184x69.jpg?t=1726509130",
+  "tags": [
+   "Action",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "387290": {
+  "user_tags": [
+   "Atmospheric",
+   "Metroidvania",
+   "Great Soundtrack",
+   "Platformer",
+   "Adventure",
+   "Story Rich",
+   "Singleplayer",
+   "Cute"
+  ],
+  "name": "Ori and the Blind Forest: Definitive Edition",
+  "type": "game",
+  "developers": [
+   "Moon Studios GmbH"
+  ],
+  "publishers": [
+   "Xbox Game Studios"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg?t=1701967651",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/capsule_184x69.jpg?t=1701967651",
+  "tags": [
+   "Action",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "391220": {
+  "user_tags": [
+   "Adventure",
+   "Action",
+   "Female Protagonist",
+   "Singleplayer",
+   "Third Person",
+   "Open World",
+   "Exploration",
+   "Action-Adventure"
+  ],
+  "name": "Rise of the Tomb Raider™",
+  "type": "game",
+  "developers": [
+   "Crystal Dynamics",
+   "Eidos-Montréal",
+   "Feral Interactive (Mac)",
+   "Feral Interactive (Linux)",
+   "Nixxes"
+  ],
+  "publishers": [
+   "Crystal Dynamics",
+   "Feral Interactive (Mac)",
+   "Feral Interactive (Linux)"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg?t=1766187095",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/capsule_184x69.jpg?t=1766187095",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support",
+   "Tracked Controller Support",
+   "VR Supported"
+  ]
+ },
+ "403640": {
+  "user_tags": [
+   "Stealth",
+   "First-Person",
+   "Action",
+   "Assassins",
+   "Singleplayer",
+   "Steampunk",
+   "Story Rich",
+   "Atmospheric"
+  ],
+  "name": "Dishonored 2",
+  "type": "game",
+  "developers": [
+   "Arkane Studios"
+  ],
+  "publishers": [
+   "Bethesda Softworks"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403640/header.jpg?t=1750785918",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403640/capsule_184x69.jpg?t=1750785918",
+  "tags": [
+   "Action",
+   "Single-player",
+   "Steam Achievements",
+   "Partial Controller Support"
+  ]
+ },
+ "461560": {
+  "user_tags": [
+   "Free to Play",
+   "Pixel Graphics",
+   "Platformer",
+   "Indie",
+   "2D",
+   "Adventure",
+   "Atmospheric",
+   "Short"
+  ],
+  "name": "MANDAGON",
+  "type": "game",
+  "developers": [
+   "Blind Sky Studios"
+  ],
+  "publishers": [
+   "Blind Sky Studios"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461560/header.jpg?t=1775825552",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461560/capsule_184x69.jpg?t=1775825552",
+  "tags": [
+   "Adventure",
+   "Indie",
+   "Free To Play",
+   "Single-player",
+   "Steam Achievements",
+   "Partial Controller Support"
+  ]
+ },
+ "489830": {
+  "user_tags": [
+   "Open World",
+   "RPG",
+   "Fantasy",
+   "Adventure",
+   "Singleplayer",
+   "Character Customization",
+   "Moddable",
+   "Dragons"
+  ],
+  "name": "The Elder Scrolls V: Skyrim Special Edition",
+  "type": "game",
+  "developers": [
+   "Bethesda Game Studios"
+  ],
+  "publishers": [
+   "Bethesda Softworks"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/capsule_184x69.jpg?t=1786648247",
+  "tags": [
+   "RPG",
+   "Single-player",
+   "Steam Achievements",
+   "Partial Controller Support"
+  ]
+ },
+ "526160": {
+  "user_tags": [
+   "Survival",
+   "Open World Survival Craft",
+   "Multiplayer",
+   "Open World",
+   "Co-op",
+   "Mystery",
+   "Adventure",
+   "Crafting"
+  ],
+  "name": "The Wild Eight",
+  "type": "game",
+  "developers": [
+   "Eight Points"
+  ],
+  "publishers": [
+   "HypeTrain Digital"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526160/header.jpg?t=1749735284",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526160/capsule_184x69.jpg?t=1749735284",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "RPG",
+   "Simulation",
+   "Single-player",
+   "Multi-player",
+   "Co-op",
+   "Online Co-op",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "552520": {
+  "user_tags": [
+   "Open World",
+   "Action-Adventure",
+   "Co-op",
+   "Multiplayer",
+   "FPS",
+   "Shooter",
+   "Story Rich",
+   "Exploration"
+  ],
+  "name": "Far Cry® 5",
+  "type": "game",
+  "developers": [
+   "Ubisoft Montreal",
+   "Red Storm",
+   "Ubisoft Shanghai",
+   "Ubisoft Toronto",
+   "Ubisoft Kiev"
+  ],
+  "publishers": [
+   "Ubisoft"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/0dbbd22689fafc2b5b86996257a8e115ff935e81/header.jpg?t=1785365694",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/49aaa75a53de446d83429fe94920a8a9348ecf62/capsule_184x69.jpg?t=1785365694",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Single-player",
+   "Multi-player",
+   "Co-op",
+   "Online Co-op",
+   "Steam Achievements",
+   "In-App Purchases",
+   "Partial Controller Support",
+   "Includes level editor"
+  ]
+ },
+ "605800": {
+  "user_tags": [
+   "Action",
+   "Indie",
+   "Adventure",
+   "Platformer",
+   "Singleplayer",
+   "Family Friendly",
+   "2D",
+   "Difficult"
+  ],
+  "name": "Skelattack",
+  "type": "game",
+  "developers": [
+   "Ukuza, Inc."
+  ],
+  "publishers": [
+   "KONAMI"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/605800/header.jpg?t=1734558631",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/605800/capsule_184x69.jpg?t=1734558631",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "Single-player",
+   "Full controller support"
+  ]
+ },
+ "612880": {
+  "user_tags": [
+   "FPS",
+   "Action",
+   "Gore",
+   "Singleplayer",
+   "Alternate History",
+   "Violent",
+   "First-Person",
+   "Shooter"
+  ],
+  "name": "Wolfenstein II: The New Colossus",
+  "type": "game",
+  "developers": [
+   "MachineGames"
+  ],
+  "publishers": [
+   "Bethesda Softworks"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/header.jpg?t=1750784115",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/capsule_184x69.jpg?t=1750784115",
+  "tags": [
+   "Action",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "750920": {
+  "user_tags": [
+   "Adventure",
+   "Action",
+   "Female Protagonist",
+   "Singleplayer",
+   "Open World",
+   "Third Person",
+   "Story Rich",
+   "Puzzle"
+  ],
+  "name": "Shadow of the Tomb Raider: Definitive Edition",
+  "type": "game",
+  "developers": [
+   "Eidos-Montréal",
+   "Crystal Dynamics",
+   "Nixxes",
+   "Feral Interactive (Mac)",
+   "Feral interactive (Linux)"
+  ],
+  "publishers": [
+   "Crystal Dynamics",
+   "Feral Interactive (Mac)",
+   "Feral interactive (Linux)"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/header.jpg?t=1765239925",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/capsule_184x69.jpg?t=1765239925",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "861250": {
+  "user_tags": [
+   "Ninja",
+   "Retro",
+   "Pixel Graphics",
+   "2D",
+   "Platformer",
+   "Anime",
+   "Metroidvania",
+   "Action"
+  ],
+  "name": "Cyber Shadow",
+  "type": "game",
+  "developers": [
+   "Aarne \"MekaSkull\" Hunziker"
+  ],
+  "publishers": [
+   "Yacht Club Games"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/header.jpg?t=1783453069",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/capsule_184x69.jpg?t=1783453069",
+  "tags": [
+   "Action",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "955050": {
+  "user_tags": [
+   "Female Protagonist",
+   "FPS",
+   "Hack and Slash",
+   "Shooter",
+   "First-Person",
+   "Action",
+   "Open World",
+   "Souls-like"
+  ],
+  "name": "Bright Memory",
+  "type": "game",
+  "developers": [
+   "FYQD-Studio"
+  ],
+  "publishers": [
+   "FYQD-Studio",
+   "PLAYISM"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955050/header.jpg?t=1734416166",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955050/capsule_184x69.jpg?t=1734416166",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Partial Controller Support"
+  ]
+ },
+ "1061090": {
+  "user_tags": [
+   "Psychological Horror",
+   "Difficult",
+   "Precision Platformer",
+   "Indie",
+   "Pixel Graphics",
+   "Adventure",
+   "Platformer",
+   "2D"
+  ],
+  "name": "Jump King",
+  "type": "game",
+  "developers": [
+   "Nexile"
+  ],
+  "publishers": [
+   "Nexile"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061090/header.jpg?t=1708097084",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061090/capsule_184x69.jpg?t=1708097084",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "1170970": {
+  "user_tags": [
+   "Free to Play",
+   "Racing",
+   "Massively Multiplayer",
+   "Casual",
+   "Simulation",
+   "Multiplayer",
+   "Singleplayer"
+  ],
+  "name": "Marbles on Stream",
+  "type": "game",
+  "developers": [
+   "Pixel by Pixel Studios Inc."
+  ],
+  "publishers": [
+   "Pixel by Pixel Studios Inc."
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170970/header.jpg?t=1786564848",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170970/capsule_184x69.jpg?t=1786564848",
+  "tags": [
+   "Casual",
+   "Massively Multiplayer",
+   "Racing",
+   "Simulation",
+   "Free To Play",
+   "Single-player",
+   "Multi-player",
+   "Steam Achievements",
+   "In-App Purchases",
+   "Includes level editor"
+  ]
+ },
+ "1237970": {
+  "user_tags": [
+   "FPS",
+   "Mechs",
+   "Multiplayer",
+   "Shooter",
+   "Singleplayer",
+   "Parkour",
+   "Action",
+   "Sci-fi"
+  ],
+  "name": "Titanfall® 2",
+  "type": "game",
+  "developers": [
+   "Respawn Entertainment"
+  ],
+  "publishers": [
+   "Electronic Arts"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg?t=1779987598",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/capsule_184x69.jpg?t=1779987598",
+  "tags": [
+   "Action",
+   "Single-player",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "Steam Achievements",
+   "Full controller support"
+  ]
  }
 }
