@@ -6310,5 +6310,834 @@
    "Steam Achievements",
    "Full controller support"
   ]
+ },
+ "4720": {
+  "user_tags": [
+   "Horror",
+   "Action",
+   "First-Person",
+   "Atmospheric",
+   "Survival Horror",
+   "Psychological Horror",
+   "Crime",
+   "Singleplayer"
+  ],
+  "name": "Condemned: Criminal Origins",
+  "type": "game",
+  "developers": [
+   "Monolith"
+  ],
+  "publishers": [
+   "SEGA"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720/header.jpg?t=1761927804",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720/capsule_184x69.jpg?t=1761927804",
+  "tags": [
+   "Action",
+   "Single-player"
+  ]
+ },
+ "205100": {
+  "user_tags": [
+   "Stealth",
+   "First-Person",
+   "Assassins",
+   "Action",
+   "Steampunk",
+   "Singleplayer",
+   "Atmospheric",
+   "Story Rich"
+  ],
+  "name": "Dishonored",
+  "type": "game",
+  "developers": [
+   "Arkane Studios"
+  ],
+  "publishers": [
+   "Bethesda Softworks"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/08e23dc25023aac81f2b40e35785e01de64dd171/header.jpg?t=1789050056",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/4200196155ae07d085d8558abe2851fe4eb80815/capsule_184x69.jpg?t=1789050056",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Single-player",
+   "Steam Achievements",
+   "Partial Controller Support"
+  ]
+ },
+ "213670": {
+  "user_tags": [
+   "RPG",
+   "Comedy",
+   "Adventure",
+   "Funny",
+   "Dark Humor",
+   "Turn-Based",
+   "Singleplayer",
+   "Action"
+  ],
+  "name": "South Park™: The Stick of Truth™",
+  "type": "game",
+  "developers": [
+   "Obsidian Entertainment"
+  ],
+  "publishers": [
+   "Ubisoft"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/213670/header.jpg?t=1777994062",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/213670/capsule_184x69.jpg?t=1777994062",
+  "tags": [
+   "Action",
+   "Adventure",
+   "RPG",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "274920": {
+  "user_tags": [
+   "Animation &amp; Modeling",
+   "Funny",
+   "Video Production",
+   "Comedy",
+   "Simulation",
+   "Memes",
+   "Cute",
+   "Software"
+  ],
+  "name": "FaceRig",
+  "type": "game",
+  "developers": [
+   "Holotech Studios"
+  ],
+  "publishers": [
+   "Holotech Studios"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274920/header.jpg?t=1641406847",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274920/capsule_184x69.jpg?t=1641406847",
+  "tags": [
+   "Animation & Modeling",
+   "Video Production",
+   "Steam Achievements",
+   "Steam Workshop"
+  ]
+ },
+ "292030": {
+  "user_tags": [
+   "Open World",
+   "RPG",
+   "Story Rich",
+   "Atmospheric",
+   "Fantasy",
+   "Adventure",
+   "Singleplayer",
+   "Nudity"
+  ],
+  "name": "The Witcher 3: Wild Hunt — Remastered",
+  "type": "game",
+  "developers": [
+   "CD PROJEKT RED"
+  ],
+  "publishers": [
+   "CD PROJEKT RED"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/e8afc4252e3fee8ed2525ab2fd7675cca39aa38d/header_alt_assets_1.jpg?t=1790769419",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/62fb0a4707d9fb0f729affec7d7d01dd70099769/capsule_184x69_alt_assets_1.jpg?t=1790769419",
+  "tags": [
+   "RPG",
+   "Single-player",
+   "Steam Achievements",
+   "Steam Workshop",
+   "Partial Controller Support"
+  ]
+ },
+ "409710": {
+  "user_tags": [
+   "FPS",
+   "Story Rich",
+   "Atmospheric",
+   "Horror",
+   "Singleplayer",
+   "First-Person",
+   "Action",
+   "Dystopian"
+  ],
+  "name": "BioShock™ Remastered",
+  "type": "game",
+  "developers": [
+   "2K Boston",
+   "2K Australia",
+   "Blind Squirrel",
+   "Feral Interactive (Mac)"
+  ],
+  "publishers": [
+   "2K",
+   "Feral Interactive (Mac)"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/header.jpg?t=1740443728",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/capsule_184x69.jpg?t=1740443728",
+  "tags": [
+   "Action",
+   "RPG",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "409720": {
+  "user_tags": [
+   "FPS",
+   "Action",
+   "Singleplayer",
+   "Story Rich",
+   "Atmospheric",
+   "Horror",
+   "First-Person",
+   "Shooter"
+  ],
+  "name": "BioShock™ 2 Remastered",
+  "type": "game",
+  "developers": [
+   "2K Marin",
+   "2K China",
+   "Digital Extremes",
+   "2K Australia",
+   "Blind Squirrel",
+   "Feral Interactive (Mac)"
+  ],
+  "publishers": [
+   "2K",
+   "Feral Interactive (Mac)"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/header.jpg?t=1740443705",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/capsule_184x69.jpg?t=1740443705",
+  "tags": [
+   "Action",
+   "RPG",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "424840": {
+  "user_tags": [
+   "Horror",
+   "Atmospheric",
+   "Adventure",
+   "Singleplayer",
+   "Puzzle Platformer",
+   "Dark",
+   "Puzzle",
+   "Indie"
+  ],
+  "name": "Little Nightmares",
+  "type": "game",
+  "developers": [
+   "Tarsier Studios"
+  ],
+  "publishers": [
+   "BANDAI NAMCO Entertainment"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/facf9a7a675c6d7f210d96d6b111caffe0386cd5/header.jpg?t=1773135169",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/2bdbdbe316dba829ab67ea61528ab87a156fc2ed/capsule_184x69.jpg?t=1773135169",
+  "tags": [
+   "Adventure",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "444090": {
+  "user_tags": [
+   "Hero Shooter",
+   "Free to Play",
+   "Multiplayer",
+   "FPS",
+   "Shooter",
+   "Action",
+   "Team-Based",
+   "First-Person"
+  ],
+  "name": "Paladins®",
+  "type": "game",
+  "developers": [
+   "Evil Mojo Games"
+  ],
+  "publishers": [
+   "Hi-Rez Studios"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/header.jpg?t=1713560419",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/capsule_184x69.jpg?t=1713560419",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Massively Multiplayer",
+   "Strategy",
+   "Free To Play",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "Cross-Platform Multiplayer",
+   "Steam Achievements",
+   "Full controller support",
+   "In-App Purchases"
+  ]
+ },
+ "470220": {
+  "user_tags": [
+   "Card Game",
+   "Multiplayer",
+   "Tabletop",
+   "Board Game",
+   "Casual",
+   "Family Friendly",
+   "Funny",
+   "Strategy"
+  ],
+  "name": "UNO",
+  "type": "game",
+  "developers": [
+   "Ubisoft Entertainment"
+  ],
+  "publishers": [
+   "Ubisoft Entertainment"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470220/b8741c3f32ce4560f33d6a7af256ec8c9828f285/header.jpg?t=1779899040",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470220/e1a01bd700edec5427197c1c57a4315f9bd6ea69/capsule_184x69.jpg?t=1779899040",
+  "tags": [
+   "Casual",
+   "Single-player",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "Shared/Split Screen PvP",
+   "Co-op",
+   "Online Co-op",
+   "Shared/Split Screen Co-op",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "480490": {
+  "user_tags": [
+   "Sci-fi",
+   "Immersive Sim",
+   "Space",
+   "Singleplayer",
+   "Horror",
+   "Atmospheric",
+   "FPS",
+   "First-Person"
+  ],
+  "name": "Prey",
+  "type": "game",
+  "developers": [
+   "Arkane Studios"
+  ],
+  "publishers": [
+   "Bethesda Softworks"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/9ed715575a2205350e937e5e6d25b3e8a494605e/header.jpg?t=1784141088",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/52a9befc4ff2a252e8ea5b5ad994e060b12c638c/capsule_184x69.jpg?t=1784141088",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "504230": {
+  "user_tags": [
+   "Precision Platformer",
+   "Difficult",
+   "Pixel Graphics",
+   "Great Soundtrack",
+   "Indie",
+   "Platformer",
+   "2D Platformer",
+   "Female Protagonist"
+  ],
+  "name": "Celeste",
+  "type": "game",
+  "developers": [
+   "Maddy Makes Games Inc.",
+   "Extremely OK Games, Ltd."
+  ],
+  "publishers": [
+   "Maddy Makes Games Inc."
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg?t=1714089525",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/capsule_184x69.jpg?t=1714089525",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "613190": {
+  "user_tags": [
+   "Souls-like",
+   "Metroidvania",
+   "Indie",
+   "Action",
+   "RPG",
+   "Adventure",
+   "Dark Fantasy",
+   "Pixel Graphics"
+  ],
+  "name": "Unworthy",
+  "type": "game",
+  "developers": [
+   "Aleksandar Kuzmanovic Games Inc."
+  ],
+  "publishers": [
+   "Aleksandar Kuzmanovic Games Inc."
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613190/header.jpg?t=1536619729",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613190/capsule_184x69.jpg?t=1536619729",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "RPG",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "614570": {
+  "user_tags": [
+   "Stealth",
+   "Action",
+   "First-Person",
+   "Assassins",
+   "Female Protagonist",
+   "Singleplayer",
+   "Steampunk",
+   "Atmospheric"
+  ],
+  "name": "Dishonored®: Death of the Outsider™",
+  "type": "game",
+  "developers": [
+   "Arkane Studios"
+  ],
+  "publishers": [
+   "Bethesda Softworks"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/614570/header.jpg?t=1750785506",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/614570/capsule_184x69.jpg?t=1750785506",
+  "tags": [
+   "Action",
+   "Single-player",
+   "Steam Achievements",
+   "Partial Controller Support"
+  ]
+ },
+ "668580": {
+  "user_tags": [
+   "Adventure",
+   "FPS",
+   "Sexual Content",
+   "Action",
+   "Singleplayer",
+   "Open World",
+   "Action-Adventure",
+   "Horror"
+  ],
+  "name": "Atomic Heart",
+  "type": "game",
+  "developers": [
+   "Mundfish"
+  ],
+  "publishers": [
+   "Focus Entertainment",
+   "4Divinity",
+   "Mundfish"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/header.jpg?t=1786632138",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/capsule_184x69.jpg?t=1786632138",
+  "tags": [
+   "Action",
+   "Adventure",
+   "RPG",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "860510": {
+  "user_tags": [
+   "Horror",
+   "Adventure",
+   "Singleplayer",
+   "Puzzle",
+   "Dark",
+   "Atmospheric",
+   "Psychological Horror",
+   "Story Rich"
+  ],
+  "name": "Little Nightmares II",
+  "type": "game",
+  "developers": [
+   "Tarsier Studios"
+  ],
+  "publishers": [
+   "BANDAI NAMCO Entertainment"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860510/header.jpg?t=1730127763",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860510/capsule_184x69.jpg?t=1730127763",
+  "tags": [
+   "Adventure",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "962130": {
+  "user_tags": [
+   "Survival",
+   "Multiplayer",
+   "Co-op",
+   "Open World Survival Craft",
+   "Base Building",
+   "Crafting",
+   "Open World",
+   "Adventure"
+  ],
+  "name": "Grounded",
+  "type": "game",
+  "developers": [
+   "Obsidian Entertainment"
+  ],
+  "publishers": [
+   "Xbox Game Studios"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg?t=1768264530",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/capsule_184x69.jpg?t=1768264530",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Single-player",
+   "Multi-player",
+   "Co-op",
+   "Online Co-op",
+   "Full controller support"
+  ]
+ },
+ "1085510": {
+  "user_tags": [
+   "Racing",
+   "PvP",
+   "Sports",
+   "Competitive",
+   "Arcade",
+   "Third Person",
+   "Cute",
+   "Split Screen"
+  ],
+  "name": "Garfield Kart - Furious Racing",
+  "type": "game",
+  "developers": [
+   "Artefacts Studio"
+  ],
+  "publishers": [
+   "Microids"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085510/b124a0dbf4fdc5b984268f92921f246ecba04c9c/header.jpg?t=1790236771",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085510/capsule_184x69.jpg?t=1790236771",
+  "tags": [
+   "Racing",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "Shared/Split Screen PvP",
+   "Shared/Split Screen",
+   "Steam Achievements",
+   "Full controller support",
+   "Gamepad Recommended"
+  ]
+ },
+ "1091500": {
+  "user_tags": [
+   "Cyberpunk",
+   "Open World",
+   "Nudity",
+   "RPG",
+   "Singleplayer",
+   "Story Rich",
+   "Sci-fi",
+   "FPS"
+  ],
+  "name": "Cyberpunk 2077",
+  "type": "game",
+  "developers": [
+   "CD PROJEKT RED"
+  ],
+  "publishers": [
+   "CD PROJEKT RED"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/590e0988a2fb79f44d3e31e41fd4949eb76abc41/capsule_184x69.jpg?t=1784714077",
+  "tags": [
+   "RPG",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "1092790": {
+  "user_tags": [
+   "Card Battler",
+   "Card Game",
+   "Story Rich",
+   "Deckbuilding",
+   "Horror",
+   "Dark",
+   "Puzzle",
+   "Roguelike"
+  ],
+  "name": "Inscryption",
+  "type": "game",
+  "developers": [
+   "Daniel Mullins Games"
+  ],
+  "publishers": [
+   "Devolver Digital"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg?t=1777572925",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/capsule_184x69.jpg?t=1777572925",
+  "tags": [
+   "Adventure",
+   "Indie",
+   "Strategy",
+   "Single-player",
+   "Steam Achievements"
+  ]
+ },
+ "1097200": {
+  "user_tags": [
+   "Indie",
+   "Adventure",
+   "Mystery",
+   "Puzzle",
+   "Story Rich",
+   "Time Travel",
+   "Singleplayer",
+   "Point &amp; Click"
+  ],
+  "name": "Twelve Minutes",
+  "type": "game",
+  "developers": [
+   "Luis Antonio"
+  ],
+  "publishers": [
+   "Annapurna Interactive"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097200/header.jpg?t=1763720997",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097200/capsule_184x69.jpg?t=1763720997",
+  "tags": [
+   "Adventure",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "1178830": {
+  "user_tags": [
+   "Action",
+   "Female Protagonist",
+   "Sexual Content",
+   "FPS",
+   "Indie",
+   "Singleplayer",
+   "Shooter",
+   "Sci-fi"
+  ],
+  "name": "Bright Memory: Infinite",
+  "type": "game",
+  "developers": [
+   "FYQD-Studio"
+  ],
+  "publishers": [
+   "FYQD-Studio",
+   "PLAYISM"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1178830/header.jpg?t=1734415707",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1178830/capsule_184x69.jpg?t=1734415707",
+  "tags": [
+   "Action",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Partial Controller Support"
+  ]
+ },
+ "1196590": {
+  "user_tags": [
+   "Survival Horror",
+   "Horror",
+   "First-Person",
+   "Singleplayer",
+   "Action",
+   "Sexual Content",
+   "Zombies",
+   "Gore"
+  ],
+  "name": "Resident Evil Village",
+  "type": "game",
+  "developers": [
+   "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+   "CAPCOM Co., Ltd."
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg?t=1776927117",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196590/capsule_184x69.jpg?t=1776927117",
+  "tags": [
+   "Action",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "1222730": {
+  "user_tags": [
+   "Flight",
+   "Space",
+   "VR",
+   "Multiplayer",
+   "Singleplayer",
+   "Sci-fi",
+   "Action",
+   "Simulation"
+  ],
+  "name": "STAR WARS™: Squadrons",
+  "type": "game",
+  "developers": [
+   "MOTIVE"
+  ],
+  "publishers": [
+   "Electronic Arts"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222730/header.jpg?t=1781890166",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222730/capsule_184x69.jpg?t=1781890166",
+  "tags": [
+   "Action",
+   "Simulation",
+   "Single-player",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "Co-op",
+   "Online Co-op",
+   "Steam Achievements",
+   "Full controller support",
+   "VR Supported",
+   "Chat Speech-to-text"
+  ]
+ },
+ "1240440": {
+  "user_tags": [
+   "Free to Play",
+   "Multiplayer",
+   "FPS",
+   "Singleplayer",
+   "Shooter",
+   "Action",
+   "First-Person",
+   "Open World"
+  ],
+  "name": "Halo Infinite",
+  "type": "game",
+  "developers": [
+   "343 Industries"
+  ],
+  "publishers": [
+   "Xbox Game Studios"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/2262ffb4f1659df1c1cbf2c70af40560b4fa12e4/header.jpg?t=1774464322",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/9d64f5027f08e849ed1369f98b22326e2377b2b7/capsule_184x69.jpg?t=1774464322",
+  "tags": [
+   "Action",
+   "Free To Play",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "LAN PvP",
+   "Cross-Platform Multiplayer",
+   "Steam Achievements",
+   "Full controller support",
+   "In-App Purchases",
+   "Includes level editor"
+  ]
+ },
+ "1562430": {
+  "user_tags": [
+   "Exploration",
+   "Fishing",
+   "Lovecraftian",
+   "Open World",
+   "Adventure",
+   "Inventory Management",
+   "Mystery",
+   "Atmospheric"
+  ],
+  "name": "DREDGE",
+  "type": "game",
+  "developers": [
+   "Black Salt Games"
+  ],
+  "publishers": [
+   "Team17"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/header.jpg?t=1780479732",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/d6c28e6402e85395421ac06ac86cdb0e28b48e27/capsule_184x69.jpg?t=1780479732",
+  "tags": [
+   "Adventure",
+   "RPG",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "1966720": {
+  "user_tags": [
+   "Online Co-Op",
+   "Horror",
+   "First-Person",
+   "Co-op",
+   "Survival Horror",
+   "Funny",
+   "Exploration",
+   "Psychological Horror"
+  ],
+  "name": "Lethal Company",
+  "type": "game",
+  "developers": [
+   "Zeekerss"
+  ],
+  "publishers": [
+   "Zeekerss"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/capsule_184x69.jpg?t=1775380053",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "Early Access",
+   "Single-player",
+   "Multi-player",
+   "Co-op",
+   "Online Co-op",
+   "Partial Controller Support"
+  ]
  }
 }
