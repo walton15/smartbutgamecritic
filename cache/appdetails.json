@@ -7139,5 +7139,509 @@
    "Online Co-op",
    "Partial Controller Support"
   ]
+ },
+ "105600": {
+  "user_tags": [
+   "Open World Survival Craft",
+   "Sandbox",
+   "Survival",
+   "2D",
+   "Multiplayer",
+   "Pixel Graphics",
+   "Adventure",
+   "Crafting"
+  ],
+  "name": "Terraria",
+  "type": "game",
+  "developers": [
+   "Re-Logic"
+  ],
+  "publishers": [
+   "Re-Logic"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/capsule_184x69.jpg?t=1769844435",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "RPG",
+   "Single-player",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "Co-op",
+   "Online Co-op",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "207140": {
+  "user_tags": [
+   "Multiplayer",
+   "Racing",
+   "Local Multiplayer",
+   "Indie",
+   "Competitive",
+   "Fast-Paced",
+   "Platformer",
+   "Action"
+  ],
+  "name": "SpeedRunners",
+  "type": "game",
+  "developers": [
+   "DoubleDutch Games"
+  ],
+  "publishers": [
+   "tinyBuild"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/header.jpg?t=1785515932",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/capsule_184x69.jpg?t=1785515932",
+  "tags": [
+   "Action",
+   "Casual",
+   "Indie",
+   "Racing",
+   "Sports",
+   "Single-player",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "Shared/Split Screen PvP",
+   "Shared/Split Screen",
+   "Cross-Platform Multiplayer"
+  ]
+ },
+ "209000": {
+  "user_tags": [
+   "Action",
+   "Open World",
+   "Superhero",
+   "Adventure",
+   "Stealth",
+   "Third Person",
+   "Singleplayer",
+   "Multiplayer"
+  ],
+  "name": "Batman™: Arkham Origins",
+  "type": "game",
+  "developers": [
+   "WB Games Montreal",
+   "Splash Damage"
+  ],
+  "publishers": [
+   "Warner Bros. Interactive Entertainment"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/header.jpg?t=1746562474",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/capsule_184x69.jpg?t=1746562474",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "283960": {
+  "user_tags": [
+   "Point &amp; Click",
+   "Adventure",
+   "Nostalgia",
+   "Casual",
+   "Family Friendly",
+   "Puzzle",
+   "1990's",
+   "Singleplayer"
+  ],
+  "name": "Pajama Sam: No Need to Hide When It's Dark Outside",
+  "type": "game",
+  "developers": [
+   "Humongous Entertainment"
+  ],
+  "publishers": [
+   "Humongous Entertainment",
+   "Nightdive Studios"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283960/header.jpg?t=1576519251",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283960/capsule_184x69.jpg?t=1576519251",
+  "tags": [
+   "Adventure",
+   "Casual",
+   "Single-player"
+  ]
+ },
+ "302510": {
+  "user_tags": [
+   "Hack and Slash",
+   "Action",
+   "Quick-Time Events",
+   "Rome",
+   "Historical",
+   "Third Person",
+   "Singleplayer",
+   "Gore"
+  ],
+  "name": "Ryse: Son of Rome",
+  "type": "game",
+  "developers": [
+   "Crytek"
+  ],
+  "publishers": [
+   "Crytek "
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/c1a20e77b1124cf1e2828e5d506418c97ad4b50c/header.jpg?t=1783415457",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/f5ac48590f34d9b903595e77d324a6d7c7f7078d/capsule_184x69.jpg?t=1783415457",
+  "tags": [
+   "Action",
+   "Single-player",
+   "Multi-player",
+   "Co-op",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "312530": {
+  "user_tags": [
+   "Multiplayer",
+   "Funny",
+   "Local Multiplayer",
+   "Pixel Graphics",
+   "Action",
+   "2D",
+   "4 Player Local",
+   "Platformer"
+  ],
+  "name": "Duck Game",
+  "type": "game",
+  "developers": [
+   "Landon Podbielski"
+  ],
+  "publishers": [
+   "CORPTRON GAMES CORP."
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312530/header.jpg?t=1719772984",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312530/capsule_184x69.jpg?t=1719772984",
+  "tags": [
+   "Action",
+   "Indie",
+   "Single-player",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "LAN PvP",
+   "Shared/Split Screen PvP",
+   "Shared/Split Screen",
+   "Steam Achievements",
+   "Full controller support",
+   "Steam Workshop"
+  ]
+ },
+ "350080": {
+  "user_tags": [
+   "FPS",
+   "Action",
+   "World War II",
+   "Gore",
+   "Alternate History",
+   "Shooter",
+   "Singleplayer",
+   "Stealth"
+  ],
+  "name": "Wolfenstein: The Old Blood",
+  "type": "game",
+  "developers": [
+   "MachineGames"
+  ],
+  "publishers": [
+   "Bethesda Softworks"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/header.jpg?t=1750784023",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/capsule_184x69.jpg?t=1750784023",
+  "tags": [
+   "Action",
+   "Single-player",
+   "Steam Achievements",
+   "Partial Controller Support"
+  ]
+ },
+ "414340": {
+  "user_tags": [
+   "Atmospheric",
+   "Psychological",
+   "Female Protagonist",
+   "Story Rich",
+   "Mythology",
+   "Singleplayer",
+   "Dark",
+   "Adventure"
+  ],
+  "name": "Hellblade: Senua's Sacrifice",
+  "type": "game",
+  "developers": [
+   "Ninja Theory"
+  ],
+  "publishers": [
+   "Ninja Theory",
+   "Xbox Game Studios"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/header.jpg?t=1776350290",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/capsule_184x69.jpg?t=1776350290",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "648800": {
+  "user_tags": [
+   "Survival",
+   "Multiplayer",
+   "Open World Survival Craft",
+   "Co-op",
+   "Crafting",
+   "Open World",
+   "Building",
+   "Base Building"
+  ],
+  "name": "Raft",
+  "type": "game",
+  "developers": [
+   "Redbeet Interactive"
+  ],
+  "publishers": [
+   "Axolot Games"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/capsule_184x69.jpg?t=1727184011",
+  "tags": [
+   "Adventure",
+   "Indie",
+   "Simulation",
+   "Single-player",
+   "Multi-player",
+   "Co-op",
+   "Online Co-op",
+   "Steam Achievements"
+  ]
+ },
+ "953490": {
+  "user_tags": [
+   "Gore",
+   "Villain Protagonist",
+   "Pixel Graphics",
+   "Metroidvania",
+   "Action",
+   "Horror",
+   "Indie",
+   "Violent"
+  ],
+  "name": "CARRION",
+  "type": "game",
+  "developers": [
+   "Phobia Game Studio"
+  ],
+  "publishers": [
+   "Devolver Digital"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/header.jpg?t=1760015957",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/capsule_184x69.jpg?t=1760015957",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support",
+   "Steam Workshop"
+  ]
+ },
+ "1174180": {
+  "user_tags": [
+   "Open World",
+   "Story Rich",
+   "Western",
+   "Multiplayer",
+   "Adventure",
+   "Action",
+   "Realistic",
+   "Singleplayer"
+  ],
+  "name": "Red Dead Redemption 2",
+  "type": "game",
+  "developers": [
+   "Rockstar Games"
+  ],
+  "publishers": [
+   "Rockstar Games"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_184x69.jpg?t=1759502961",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Single-player",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "Co-op",
+   "Online Co-op",
+   "Steam Achievements",
+   "In-App Purchases",
+   "Partial Controller Support"
+  ]
+ },
+ "1231880": {
+  "user_tags": [
+   "Metroidvania",
+   "Adventure",
+   "Exploration",
+   "Pixel Graphics",
+   "Atmospheric",
+   "Robots",
+   "Platformer",
+   "Open World"
+  ],
+  "name": "Haiku, the Robot",
+  "type": "game",
+  "developers": [
+   "Mister Morris Games"
+  ],
+  "publishers": [
+   "Mister Morris Games"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1231880/header.jpg?t=1754931046",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1231880/capsule_184x69.jpg?t=1754931046",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "1262350": {
+  "user_tags": [
+   "Survival Horror",
+   "Psychological Horror",
+   "Female Protagonist",
+   "Sci-fi",
+   "Atmospheric",
+   "LGBTQ+",
+   "Lovecraftian",
+   "Dark"
+  ],
+  "name": "SIGNALIS",
+  "type": "game",
+  "developers": [
+   "rose-engine"
+  ],
+  "publishers": [
+   "Balor Games"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/header.jpg?t=1773697315",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/capsule_184x69.jpg?t=1773697315",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "1371980": {
+  "user_tags": [
+   "Early Access",
+   "Souls-like",
+   "Action RPG",
+   "Online Co-Op",
+   "Hack and Slash",
+   "Open World",
+   "Combat",
+   "Exploration"
+  ],
+  "name": "No Rest for the Wicked",
+  "type": "game",
+  "developers": [
+   "Moon Studios GmbH"
+  ],
+  "publishers": [
+   "Moon Studios GmbH"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/331de7e745f43867f0a220339153ac6019822ea4/header.jpg?t=1789377119",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/9d2efe7754b0843dddbf7c495fe55ccc69e99b6c/capsule_184x69.jpg?t=1789377119",
+  "tags": [
+   "Action",
+   "Adventure",
+   "RPG",
+   "Early Access",
+   "Single-player",
+   "Multi-player",
+   "Co-op",
+   "Online Co-op",
+   "Gamepad Recommended",
+   "Partial Controller Support"
+  ]
+ },
+ "2637990": {
+  "user_tags": [
+   "Detective",
+   "Investigation",
+   "Casual",
+   "Short",
+   "Cute",
+   "Adventure",
+   "Noir",
+   "Mystery"
+  ],
+  "name": "Duck Detective: The Secret Salami",
+  "type": "game",
+  "developers": [
+   "Happy Broccoli Games"
+  ],
+  "publishers": [
+   "Happy Broccoli Games"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2637990/1170941bed8a49632e5e35ad052811f36cd33078/header.jpg?t=1765295539",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2637990/966a4ea22edd0925920c2a9ea8c8b528f6590b5c/capsule_184x69.jpg?t=1765295539",
+  "tags": [
+   "Adventure",
+   "Casual",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
+ },
+ "3287230": {
+  "user_tags": [
+   "Exploration",
+   "Simulation",
+   "Female Protagonist",
+   "Dark Humor",
+   "Walking Simulator",
+   "Sandbox",
+   "First-Person",
+   "Open World"
+  ],
+  "name": "Helen Keller Simulator",
+  "type": "game",
+  "developers": [
+   "Soapy Sandwich"
+  ],
+  "publishers": [
+   "Soapy Sandwich"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3287230/header.jpg?t=1785531161",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3287230/64da3bdb801665405f68a4aa102ae91c16936247/capsule_184x69.jpg?t=1785531161",
+  "tags": [
+   "Simulation",
+   "Single-player",
+   "Steam Achievements"
+  ]
  }
 }
