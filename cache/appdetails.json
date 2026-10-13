@@ -7643,5 +7643,42 @@
    "Single-player",
    "Steam Achievements"
   ]
+ },
+ "2211170": {
+  "user_tags": [
+   "Online Co-Op",
+   "Trains",
+   "Multiplayer",
+   "Roguelike",
+   "Local Multiplayer",
+   "Top-Down",
+   "Action Roguelike",
+   "Action"
+  ],
+  "name": "Unrailed 2: Back on Track",
+  "type": "game",
+  "developers": [
+   "Indoor Astronaut"
+  ],
+  "publishers": [
+   "Indoor Astronaut",
+   "Kepler Ghost"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/d582ec1c0420b601cd857cfd43f62a63b337b7bb/header.jpg?t=1790852922",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/e612f86a7477662e947bea4c52990c0c07793d05/capsule_184x69.jpg?t=1790852922",
+  "tags": [
+   "Action",
+   "Casual",
+   "Indie",
+   "Simulation",
+   "Strategy",
+   "Single-player",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "Shared/Split Screen PvP",
+   "Co-op",
+   "Online Co-op"
+  ]
  }
 }
