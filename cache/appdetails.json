@@ -7680,5 +7680,33 @@
    "Co-op",
    "Online Co-op"
   ]
+ },
+ "1551980": {
+  "user_tags": [
+   "Gore",
+   "Sexual Content",
+   "Action",
+   "Nudity",
+   "Horror",
+   "Atmospheric",
+   "First-Person",
+   "Dark"
+  ],
+  "name": "Clive Barker's Hellraiser: Revival",
+  "type": "game",
+  "developers": [
+   "Saber Interactive"
+  ],
+  "publishers": [
+   "Saber Interactive"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551980/d1e7111b93b6a8b3eb029908887648348c2c55e6/header.jpg?t=1791462446",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551980/c8642c8c08272cb8646e851aa464a2e627438d19/capsule_184x69.jpg?t=1791462446",
+  "tags": [
+   "Action",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
  }
 }
