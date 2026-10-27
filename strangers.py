@@ -12,6 +12,7 @@ import random
 import re
 import sys
 import time
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -73,10 +74,14 @@ def gives_away(text, name, extra_terms):
 
 
 def fetch_reviews(appid):
-    url = (f"https://store.steampowered.com/appreviews/{appid}?json=1&language=english&filter=all"
-           f"&review_type=all&purchase_type=all&num_per_page=100")
+    # Valve retired store.steampowered.com/appreviews on 2026-10-22 (it now redirects to the store
+    # homepage). Same query as before: most helpful of all time (filter 0 + day_range 0), any purchase type.
+    params = {"appid": appid, "languages": ["english"], "filter": 0, "day_range": 0,
+              "review_type": 0, "purchase_type": 1, "num_per_page": 100}
+    url = ("https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json="
+           + urllib.parse.quote(json.dumps(params)))
     with urllib.request.urlopen(url, timeout=20) as r:
-        return json.load(r).get("reviews", [])
+        return json.load(r).get("response", {}).get("reviews", [])
 
 
 def main():
