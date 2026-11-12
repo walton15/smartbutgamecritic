@@ -7770,5 +7770,35 @@
    "Steam Achievements",
    "Full controller support"
   ]
+ },
+ "4115450": {
+  "user_tags": [
+   "Action RPG",
+   "Wuxia",
+   "Martial Arts",
+   "Action",
+   "Hack and Slash",
+   "Singleplayer",
+   "Dark Fantasy",
+   "Souls-like"
+  ],
+  "name": "Phantom Blade Zero",
+  "type": "game",
+  "developers": [
+   "S-GAME Studio"
+  ],
+  "publishers": [
+   "S-GAME Publishing"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg?t=1793261976",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/aef06490c9a4ad912142fe3b766ee08a2b38ef80/capsule_184x69.jpg?t=1793261976",
+  "tags": [
+   "Action",
+   "RPG",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support",
+   "Gamepad Recommended"
+  ]
  }
 }
