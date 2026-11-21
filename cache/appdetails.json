@@ -7800,5 +7800,35 @@
    "Full controller support",
    "Gamepad Recommended"
   ]
+ },
+ "3810510": {
+  "user_tags": [
+   "Adventure",
+   "Action",
+   "Retro",
+   "Action-Adventure",
+   "First-Person",
+   "FPS",
+   "Old School",
+   "3D"
+  ],
+  "name": "DERELIKT",
+  "type": "game",
+  "developers": [
+   "Visuwyg"
+  ],
+  "publishers": [
+   "Hyperstrange"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/45f23f4a1143f49de0962289003d6b269fa970bd/header.jpg?t=1794855109",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/b0c737a360fd5b97e5a65fe1f3559003c5611c90/capsule_184x69.jpg?t=1794855109",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
  }
 }
