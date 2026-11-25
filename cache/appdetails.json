@@ -7863,5 +7863,36 @@
    "Steam Achievements",
    "Full controller support"
   ]
+ },
+ "2280360": {
+  "user_tags": [
+   "Top-Down Shooter",
+   "Action",
+   "Fast-Paced",
+   "Pixel Graphics",
+   "Story Rich",
+   "Noir",
+   "Atmospheric",
+   "Gore"
+  ],
+  "name": "Scarecrow: 90s Crime Story",
+  "type": "game",
+  "developers": [
+   "ChillouT Studio"
+  ],
+  "publishers": [
+   "Stellar Stag"
+  ],
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280360/00bf57d3ca4e2cfc1ef62bb5248b9630cd3a6c2f/header.jpg?t=1795534348",
+  "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280360/d3b0540a91ceb76b1ec66eb9ab04a42433422b02/capsule_184x69.jpg?t=1795534348",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Casual",
+   "Indie",
+   "Single-player",
+   "Steam Achievements",
+   "Full controller support"
+  ]
  }
 }
